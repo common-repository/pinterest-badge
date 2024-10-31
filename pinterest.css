@@ -1,0 +1,103 @@
+/*
+/ We add three wrappers to increse specificity so css styles from main page does not bother the badge
+*/
+
+#pinbadgewrapper {}
+html body #pinbadgewrapper2 #pinbadgewrapper1 #pinbadgewrapper div {
+	margin:0;padding:0;border:0;text-shadow:none;text-align:left;font-family:'lucida grande',tahoma,verdana,arial,sans-serif;font-size:12px;font-weight:normal;color:#333333; vertical-align: baseline;line-height:13px;
+}
+html body #pinbadgewrapper2 #pinbadgewrapper1 #pinbadgewrapper span {
+	margin:0;padding:0;border:0;text-shadow:none;text-align:left;font-family:'lucida grande',tahoma,verdana,arial,sans-serif;font-size:12px;font-weight:normal;color:#333333; vertical-align: baseline;line-height:13px;
+}
+html body #pinbadgewrapper2 #pinbadgewrapper1 #pinbadgewrapper a {
+	margin:0;padding:0;border:0;text-shadow:none;text-align:left;font-family:'lucida grande',tahoma,verdana,arial,sans-serif;font-size:12px;font-weight:normal;color:#333333;text-decoration:none; vertical-align: baseline;line-height:13px;
+}
+html body #pinbadgewrapper2 #pinbadgewrapper1 #pinbadgewrapper img {
+	margin:0;padding:0;border:0;text-shadow:none;text-align:left;font-family:'lucida grande',tahoma,verdana,arial,sans-serif;font-size:12px;font-weight:normal;color:#333333; vertical-align: baseline;line-height:13px;
+}
+html body #pinbadgewrapper2 #pinbadgewrapper1 #pinbadgewrapper p {
+	margin:0;padding:0;border:0;text-shadow:none;text-align:left;font-family:'lucida grande',tahoma,verdana,arial,sans-serif;font-size:12px;font-weight:normal;color:#333333; vertical-align: baseline;line-height:13px;
+}
+html body #pinbadgewrapper2 #pinbadgewrapper1 #pinbadgewrapper #pinbadge {
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	-o-border-radius: 2px;
+	-khtml-border-radius: 2px;
+	border-radius: 2px;
+	clear:both;
+	margin:0;padding:0;
+}
+html body #pinbadgewrapper2 #pinbadgewrapper1 #pinbadgewrapper #pinbadge a {
+	color: #3B5998;
+	text-decoration: none;
+	font-weight: bold;
+}
+html body #pinbadgewrapper2 #pinbadgewrapper1 #pinbadgewrapper #pinfollow {
+	margin:0 0 5px 5px;
+}
+html body #pinbadgewrapper2 #pinbadgewrapper1 #pinbadgewrapper #pinbadgeFollowerCount {
+	font-family: "lucida grande",tahoma,verdana,arial,sans-serif;
+    font-size: 11px;
+	line-height:20px;
+	font-weight: normal;
+	height: 20px;
+	color:#333333;
+	padding: 0;
+	word-wrap: break-word;
+	margin: 0;
+	float:left;
+}
+html body #pinbadgewrapper2 #pinbadgewrapper1 #pinbadgewrapper #pinbadgeCreditq {
+	font-family: "lucida grande",tahoma,verdana,arial,sans-serif;
+	font-size:10px;
+	line-height:20px;
+    margin: 0;
+    padding: 0;
+	float:right;
+}
+html body #pinbadgewrapper2 #pinbadgewrapper1 #pinbadgewrapper #pinbadgeCreditq a{
+	color:#B0B0B0;
+	text-decoration:none;
+	font-size:10px;
+	line-height:20px;
+}
+html body #pinbadgewrapper2 #pinbadgewrapper1 #pinbadgewrapper #pinbadgeCredit {
+    height: 20px;
+	font-family: "lucida grande",tahoma,verdana,arial,sans-serif;
+	font-size:11px;
+	line-height:20px;
+    margin: 0;
+    padding: 0;
+	float:left;
+}
+html body #pinbadgewrapper2 #pinbadgewrapper1 #pinbadgewrapper #pinbadgeCredit p {
+	padding: 0 8px 0 0 !important;
+	margin: 0 !important;
+	font-size: 11px;
+	line-height:20px;
+	color: #000000;
+	text-align:left;
+}
+html body #pinbadgewrapper2 #pinbadgewrapper1 #pinbadgewrapper #pinbadgeCredit p a{
+	font-size: 11px;
+	line-height:20px;
+	color:#993333;
+}
+html body #pinbadgewrapper2 #pinbadgewrapper1 #pinbadgewrapper .hide {
+	display:none;
+}
+html body #pinbadgewrapper2 #pinbadgewrapper1 #pinbadgewrapper #pinimgs {
+	margin:5px 0 0 0;
+}
+html body #pinbadgewrapper2 #pinbadgewrapper1 #pinbadgewrapper #pinimg {
+	margin:0 0 5px 5px;
+	float:left; 
+	width:75px; 
+	height:75px;
+}
+html body #pinbadgewrapper2 #pinbadgewrapper1 #pinbadgewrapper #pinimgsmall {
+	margin:0 0 5px 5px;
+	float:left; 
+	width:55px; 
+	height:55px;
+}
